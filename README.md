@@ -5,7 +5,7 @@
 
 - [Sherpa RPA](https://sherparpa.ru/)
 - ![Sherpa](https://sherparpa.ru/wp-content/uploads/2023/07/sherpa_logo-1.svg)
-- [Плагин chrome](chrome://extensions/?id=bdnlfnchnkjeempadnmcgbbkbacffobl)
+- [Плагин chrome](https://chrome.google.com/webstore/detail/sherpa-rpa/bdnlfnchnkjeempadnmcgbbkbacffobl?hl=ru)
 
 
 #### Запуск 
